@@ -1,6 +1,6 @@
 # Node.js-and-Javascript
 
-echo "# dummy" >> README.md
+###echo "# dummy" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
